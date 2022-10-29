@@ -4,6 +4,7 @@ core.mongo*
 core.python*
 node_modules/
 database.ini
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
